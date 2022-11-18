@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Bash script that uses ssh to connect to a server using a private key 
 chmod 600 ~/.ssh/school
-ssh -i ~/.ssh/school ubuntu@100.25.193.124
+ssh -i ~/.ssh/school ubuntu@54.172.16.100
